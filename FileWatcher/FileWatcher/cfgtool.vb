@@ -9,6 +9,9 @@ Public Class cfgtool
     End Sub
 
     Private Sub cfgtool_FormClosing(sender As Object, e As FormClosingEventArgs) Handles MyBase.FormClosing
+        Try
+            File.WriteAllText(Application.StartupPath & "\save_exclude_path.ini", RichTextBox1.Text)
+        Catch : End Try
         e.Cancel = True
         Hide()
     End Sub
@@ -17,8 +20,6 @@ Public Class cfgtool
         Dim dlg As New FolderBrowserDialog()
         If dlg.ShowDialog() = DialogResult.OK Then
             TextBox1.Text = dlg.SelectedPath
-        Else
-
         End If
     End Sub
 
@@ -28,5 +29,11 @@ Public Class cfgtool
         Else
             MessageBox.Show("This folder does not exist !", "Check folder")
         End If
+    End Sub
+
+    Private Sub cfgtool_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Try
+            RichTextBox1.Text = File.ReadAllText(Application.StartupPath & "\save_exclude_path.ini")
+        Catch : End Try
     End Sub
 End Class
