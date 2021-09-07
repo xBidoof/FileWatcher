@@ -1,0 +1,26 @@
+C:\Users\Bidoof Cfw\Desktop\VisualStudio\VB\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\bin\Debug\FileAnalyser.exe.config
+C:\Users\Bidoof Cfw\Desktop\VisualStudio\VB\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\bin\Debug\FileAnalyser.exe
+C:\Users\Bidoof Cfw\Desktop\VisualStudio\VB\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\bin\Debug\FileAnalyser.pdb
+C:\Users\Bidoof Cfw\Desktop\VisualStudio\VB\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\bin\Debug\FileAnalyser.xml
+C:\Users\Bidoof Cfw\Desktop\VisualStudio\VB\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.vbprojAssemblyReference.cache
+C:\Users\Bidoof Cfw\Desktop\VisualStudio\VB\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.cfgtool.resources
+C:\Users\Bidoof Cfw\Desktop\VisualStudio\VB\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.Form1.resources
+C:\Users\Bidoof Cfw\Desktop\VisualStudio\VB\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.Resources.resources
+C:\Users\Bidoof Cfw\Desktop\VisualStudio\VB\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.vbproj.GenerateResource.cache
+C:\Users\Bidoof Cfw\Desktop\VisualStudio\VB\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.vbproj.CoreCompileInputs.cache
+C:\Users\Bidoof Cfw\Desktop\VisualStudio\VB\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.exe
+C:\Users\Bidoof Cfw\Desktop\VisualStudio\VB\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.xml
+C:\Users\Bidoof Cfw\Desktop\VisualStudio\VB\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.pdb
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\bin\Debug\FileAnalyser.exe.config
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\bin\Debug\FileAnalyser.exe
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\bin\Debug\FileAnalyser.pdb
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.vbprojAssemblyReference.cache
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.cfgtool.resources
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.Form1.resources
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.Resources.resources
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.vbproj.GenerateResource.cache
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.vbproj.CoreCompileInputs.cache
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.exe
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.pdb
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\bin\Debug\FileAnalyser.xml
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Debug\FileAnalyser.xml

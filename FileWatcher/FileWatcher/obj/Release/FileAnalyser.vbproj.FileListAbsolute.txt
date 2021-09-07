@@ -1,0 +1,12 @@
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\bin\Release\FileAnalyser.exe.config
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\bin\Release\FileAnalyser.exe
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\bin\Release\FileAnalyser.pdb
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\bin\Release\FileAnalyser.xml
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Release\FileAnalyser.cfgtool.resources
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Release\FileAnalyser.Form1.resources
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Release\FileAnalyser.Resources.resources
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Release\FileAnalyser.vbproj.GenerateResource.cache
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Release\FileAnalyser.vbproj.CoreCompileInputs.cache
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Release\FileAnalyser.exe
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Release\FileAnalyser.xml
+C:\Users\didid\Desktop\VisualStudio\VB2\FIleAnalyser\FileAnalyser\FileAnalyser\obj\Release\FileAnalyser.pdb
